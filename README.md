@@ -4,8 +4,7 @@ SManager Solution Architects - OpenShift 4 - Test Drive
 ## Instruções - Test Drive OpenShift 4:
    -
    -
-   -
-   -
+
 
 ## Pré-requisitos:
    
@@ -13,13 +12,6 @@ SManager Solution Architects - OpenShift 4 - Test Drive
 
    -
    -
-   -
-   -
-   -
-   
-
-
-
 
 ## 1 - Explorando o ambiente:
 
