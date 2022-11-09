@@ -8,8 +8,7 @@ SManager Solution Architects - OpenShift 4 - Test Drive
 
 ## Pré-requisitos:
    
-   - Crie um fork com sua conta GitHub: https://github.com/pluizetto/ruby-hello-world
-
+   - Crie um fork do repositório a seguir com sua conta GitHub: https://github.com/pluizetto/ruby-hello-world
    -
    -
 
